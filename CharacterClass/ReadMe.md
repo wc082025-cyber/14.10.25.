@@ -1,3 +1,27 @@
+# Summary of Project.
+    The project did not turn out as I initially had plans for. I did not have the time or knowledge to complete to my full plan. I bit over more than I can chew. As Jørgen had classes with the new students, I had to get a couple of minutes here and there while trying to find answers with AI.
+    it ended up in my mind kind of a mess, and I coded some very redundant code. But thats not a big issue. Sometimes you dont know what youre doing, and doing more than needed.
+
+    My initial plan, was to make this code work kind of like the room booking program Jørgen wrote.
+
+    First you are greeted, then to character selection, where you can read some of the stats, and backstory for each of the characters you can choose. You were supposed to pick with the arrow keys and enter, each character that was highlighted was supposed to have info until scrolling down, up or right to the next. Like a table.
+
+    As you can see in ReadMe, there was some bigger plans in all of this. I just dont have the expertise to do it yet. This is a rough framework for a souls like, rouge like, turn based combat game. Its a mouthful.
+    And a shameless heavy inspiration from the Dark Souls series combined with Darkest Dungeon as a single player, single character game.
+    But as I get better, I see no reason why I should not be able to make it a reality. I have the skills and eqipment to draw up character sprites and maps, to make maps and some basic animations.
+
+    I did not have time to implement all the weapons either. 
+    I was supposed to write some lines on each weapon in each category. That had to be left out.
+
+    Each of the # gives information on how much I initially had plans to do. With more skills and more training, I dont see why I should not be able to do all of the things I planned in a week.
+
+    A learning experience for sure.
+
+    Tomorrow will be a more back to basics day again probably.
+    Go back to W3 schools and complete the basics test again, to see what stuck. 
+
+    Until next time.
+
 # About Project Generic.
     I think I will build upon the previous assignment.
     But instead of using weapons, I think I will use Classes, as in Wizard, Sorcerer, Warrior etc, to simplify it for my self, and because it would be easier to implement more classes in the list.
