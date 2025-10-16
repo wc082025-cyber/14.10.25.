@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Reflection.Emit;
+using System.Text.Json;
 
 namespace CharacterClass;
 
@@ -173,5 +174,23 @@ public static class CharacterDatabase
             faith: stats.Faith,
             backstory: stats.Backstory);
     }
+    /// <summary>
+    /// Call this once, or when more data is updated in the dictionary, it will override each time its called.
+    /// </summary>
+    public static void InitialLoadOrOverwrite()
+    {
+        var serialze = JsonSerializer.Serialize(_stats);
+        File.WriteAllText("db_test.json", serialze);
+    }
+
+    public static void PrintCharacterData()
+    {
+        var loadFile = File.ReadAllText("db_test.json");
+        Console.WriteLine(loadFile);
+    }
+    
+    
 }
 /* Create all base stats from each class of characters. */
+
+/// implement a json

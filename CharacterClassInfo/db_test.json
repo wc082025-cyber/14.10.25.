@@ -1,0 +1,102 @@
+{
+    "Assassin": {
+        "Name": "Assassin",
+        "Vigor": 7,
+        "Endurance": 5,
+        "Strength": 6,
+        "Dexterity": 12,
+        "Intellegence": 9,
+        "Faith": 5,
+        "Backstory": "Born from a Sorcerer father and a Mercenary mother. \n            The assassin has both the intellegence to cast  simple spells, and the dexterity to swiftly aquire its prey. \n            Proficient in small arms like daggers and spells that make the user almost invisible to others,\n            the assassin is rarely seen and blends in to the enviroment. \n            When the target realizes its imminent doom, it is already to late. \n            Leaves no trace other than the pool of blood the victim lies in."
+    },
+    "Chaos Magician": {
+        "Name": "Chaos Magician",
+        "Vigor": 7,
+        "Endurance": 5,
+        "Strength": 9,
+        "Dexterity": 7,
+        "Intellegence": 14,
+        "Faith": 9,
+        "Backstory": "A Magician outcast from both the church and the sorcerers guild. \n            In Search for knowledge, the Chaos Magician is concidered a heretic and a traitor. \n            Now living life in hiding and has become a formidable opponent with ties to the occult. \n            Capable of fiery chaos magic, the forbidden knowledge. \n            Few dare approach the one who wields an axe and \n            capaple of conjuring black fire that never seems to stop burning the skin."
+    },
+    "Cleric": {
+        "Name": "Cleric",
+        "Vigor": 9,
+        "Endurance": 8,
+        "Strength": 10,
+        "Dexterity": 5,
+        "Intellegence": 1,
+        "Faith": 9,
+        "Backstory": "The Cleric is guided by the God of light. \n            A just warrior that can cast miracles with the sacred Thurible to heal self and others. \n            Carries a blessed flanged mace to deal holy damage to the undead. \n            Can also use some talismans, but it is considered heresy by the faith, \n            and any usage will result in being excommunicated by the church."
+    },
+    "Deprived": {
+        "Name": "Deprived",
+        "Vigor": 10,
+        "Endurance": 10,
+        "Strength": 10,
+        "Dexterity": 10,
+        "Intellegence": 10,
+        "Faith": 10,
+        "Backstory": "Unknown origin, wearing only rags even the poorest would discard. \n            Carrying no more than a wooden club and some improvised planks as a shield found on the ground. \n            Nobody looks twice, other than to avoid. \n            If not seen standing or moving, you would think them already dead. \n            Malnourished and gray skin. \n            Not even the crows would eat if dead."
+    },
+    "Herald": {
+        "Name": "Herald",
+        "Vigor": 9,
+        "Endurance": 13,
+        "Strength": 14,
+        "Dexterity": 5,
+        "Intellegence": 2,
+        "Faith": 13,
+        "Backstory": "The Herald is a crusader of the church. \n            Eqipped with plate armor, greatsword and an unfaultering faith the church is absolute. \n            Some may say the herald is brainwashed from childhood. \n            Capable of handling multiple opponents in battle by healing self while in battle. \n            Foolish for some, brave for others. \n            The herald is not afraid of death, as the belief that the God of light will show the way."
+    },
+    "Knight": {
+        "Name": "Knight",
+        "Vigor": 15,
+        "Endurance": 10,
+        "Strength": 14,
+        "Dexterity": 5,
+        "Intellegence": 4,
+        "Faith": 3,
+        "Backstory": "The knight comes from a long line of honorable men defending the throne. \n            Until his father betrayed the king. Now in search of redemption for the honor lost. \n            Guided by his devotion to the kingdom and new king. \n            He is on a quest to restore the legacy of his own name in hope to return home with the \n            Moonlight Greatsword to prove his loyalty. \n            Wether he dies or returns. Carries a straight sword and a shield."
+    },
+    "Mercenary": {
+        "Name": "Mercenary",
+        "Vigor": 7,
+        "Endurance": 5,
+        "Strength": 5,
+        "Dexterity": 14,
+        "Intellegence": 5,
+        "Faith": 3,
+        "Backstory": "Known for its agility and adaptability in combat. \n            Equipped with two curved scimitars, the mercenary exels in taking down opponents wearing light armor. \n            Fighting its way through anything and disappearing just as fast. \n            Have no alligience other than the coin paid for its services. \n            Growing in poverty has tought the mercenary not to trust. A sharp mind and even sharper blades."
+    },
+    "Sorcerer": {
+        "Name": "sorcerer",
+        "Vigor": 7,
+        "Endurance": 5,
+        "Strength": 5,
+        "Dexterity": 7,
+        "Intellegence": 16,
+        "Faith": 2,
+        "Backstory": "The sorcerer is a lone wanderer with very high intellegence in search \n            of futher wisdom to hone the skills learned from decades of training. \n            A dangerous opponent to those who unknowingly picks a fight.\n            In search of unnatural long life, the sorcerer takes its time to learn. \n            A stoic character wielding a Mail Breaker dagger, capable of piercing the toughest armor, \n            and a catalyst for casting sorceries."
+    },
+    "Thief": {
+        "Name": "Thief",
+        "Vigor": 8,
+        "Endurance": 9,
+        "Strength": 5,
+        "Dexterity": 14,
+        "Intellegence": 7,
+        "Faith": 3,
+        "Backstory": "High luck, and use of bows are the defining traits. \n            Finding treasures most may have overlooked. The thief is stealthy, quick and efficient. \n            Seldom discovered, but on the occation being spotted by a guard, \n            the thief can use poisons and daggers to quickly make sure the escape. \n            Stealth and strategy, outsmarting its opponent can be just as efficient as brute force."
+    },
+    "Warrior": {
+        "Name": "Warrior",
+        "Vigor": 14,
+        "Endurance": 9,
+        "Strength": 17,
+        "Dexterity": 5,
+        "Intellegence": 3,
+        "Faith": 7,
+        "Backstory": "The warrior follows the ancient forgotten God. \n            The king without a name. Once a god, now stripped of all deity, and now working from the shadows. \n            The warrior comes from far away to claim back and retore the old kingdom. \n            A fierce adversary, unafraid and immense strength.  \n            Wielding Greathammers and Ultra Greatswords alike. Slow, but powerful. \n            A single hit from the giant weapons the warrior has, may kill the opponent outright.\n            An opponent wielding a shield may be lulled in to a false confidence \n            until the stike lands and knocks them to the ground with broken shield, \n            bones and the realization it is all over before it began."
+    }
+}

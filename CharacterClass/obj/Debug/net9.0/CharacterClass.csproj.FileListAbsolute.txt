@@ -9,3 +9,4 @@
 /Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClass/obj/Debug/net9.0/refint/CharacterClass.dll
 /Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClass/obj/Debug/net9.0/CharacterClass.pdb
 /Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClass/obj/Debug/net9.0/ref/CharacterClass.dll
+/Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClass/obj/Debug/net9.0/CharacterClass.sourcelink.json

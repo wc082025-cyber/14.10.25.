@@ -12,8 +12,9 @@ namespace ClassesInformation
     {
         static void Main()
         {
-            GetAll.PrintCharacter("Assassin");
-            GetAll.PrintCharacter("Warrior");
+            CharacterDatabase.InitialLoadOrOverwrite();
+
+            CharacterDatabase.PrintCharacterData();
         
 
             Console.WriteLine("\nPress any key to exit...");

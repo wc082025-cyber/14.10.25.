@@ -16,3 +16,4 @@
 /Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClassInfo/obj/Debug/net9.0/CharacterClassInfo.pdb
 /Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClassInfo/obj/Debug/net9.0/CharacterClassInfo.genruntimeconfig.cache
 /Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClassInfo/obj/Debug/net9.0/ref/CharacterClassInfo.dll
+/Users/chris/Desktop/intro til csharp/13.10.25.Generisk/14.10.25./CharacterClassInfo/obj/Debug/net9.0/CharacterClassInfo.sourcelink.json
